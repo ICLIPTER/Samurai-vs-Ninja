@@ -1,0 +1,16 @@
+Basic Fighting game mechanics:
+ Project Setup
+ Create player and enemy
+ Move characters with Event listeners
+ attacks
+ health bar Interface
+ Game Timers and Game Over
+
+
+Sprites and Animations
+ Background Sprite
+ Shop sprite with Animation
+ player sprite (Samurai Mack)
+ Enemy Sprite (Kenji)
+ Interface Design and Animation
+ pushing Live   
